@@ -2,7 +2,7 @@
 
 I am a passionate student at Polish-Japanese Academy of Information Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![spacecat81's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<spacecat81>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I am a passionate student at Polish-Japanese Academy of Information Technology, 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,azure,aws)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
