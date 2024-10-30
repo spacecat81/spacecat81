@@ -1,6 +1,6 @@
 # Hi, I'm Gleb! 👋
 
-I am a passionate student at Polish-Japanese Academy of Information Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate student at Polish-Japanese Academy of Information Technology, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 
 ## 🚀 About Me
